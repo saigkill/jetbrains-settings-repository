@@ -1,28 +1,7 @@
 <application>
-  <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="E:/Program Files/nodejs/node.exe">
-      <version-cache version="8.11.1" last-modified="1522357574000" />
-    </local-interpreter>
-  </component>
-  <component name="RecentTaskRepositories">
-    <GitHub shared="false" url="https://github.com">
-      <option name="assignedIssuesOnly" value="false" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password />
-      <token>df9fdf9bdf99df9fdf9cdfcedfcfdfcbdf9bdfc8df9edfccdfc8df9cdfc9df92dfcfdf9ddf9bdf9ddfcbdf9ddfcbdf9cdf98dfc8df9fdfc9df9bdf98dfccdf9cdf9cdf9adf9edf9edf9bdf99df9ddf9c</token>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="repoAuthor" value="saigkill" />
-      <option name="repoName" value="hoe-manns" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <option name="user" value="" />
-      <username />
-    </GitHub>
-  </component>
-  <component name="TeamCityHistory">
-    <option name="HISTORY" value="http://localhost&amp;^%$#@admin" />
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\bin\gdb.exe" />
+    </toolchains>
   </component>
 </application>
