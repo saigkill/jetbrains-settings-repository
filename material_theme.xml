@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.2-2018.1" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="userId" value="7f4d57fb:1644cf1dbd2:-7fff" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>
