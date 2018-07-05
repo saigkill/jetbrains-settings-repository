@@ -1,8 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
     </defaultProject>
   </component>
