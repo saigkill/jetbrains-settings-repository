@@ -1,40 +1,7 @@
 <application>
-  <component name="PyTestFrameworkService">
-    <option name="SDK_TO_PYTEST">
-      <map>
-        <entry key="C:\Users\Sasch\OneDrive\PycharmProjects\ignore-me\venv\Scripts\python.exe" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_NOSETEST">
-      <map>
-        <entry key="C:\Users\Sasch\OneDrive\PycharmProjects\ignore-me\venv\Scripts\python.exe" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_TRIALTEST">
-      <map>
-        <entry key="C:\Users\Sasch\OneDrive\PycharmProjects\ignore-me\venv\Scripts\python.exe" value="false" />
-      </map>
-    </option>
-  </component>
-  <component name="RecentTaskRepositories">
-    <GitHub shared="false" url="https://github.com">
-      <option name="assignedIssuesOnly" value="false" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password />
-      <token>df98df98df9ddf9adf98df92df98dfc8df98dfccdfccdf92df92dfcedfc8dfc9dfcfdfc9dfcfdf98df9ddf93df9cdf9ddf9cdfc9df93df92dfccdf9adfcfdf9ddf9fdf9adf9adf9edfcedfcedfcbdfcc</token>
-      <option name="loginAnonymously" value="false" />
-      <option name="preferredCloseTaskState" />
-      <option name="preferredOpenTaskState" />
-      <option name="repoAuthor" value="saigkill" />
-      <option name="repoName" value="ignore-me" />
-      <option name="shouldFormatCommitMessage" value="false" />
-      <option name="useHttpAuthentication" value="false" />
-      <option name="useProxy" value="false" />
-      <option name="user" value="" />
-      <username />
-    </GitHub>
-  </component>
-  <component name="TeamCityHistory">
-    <option name="HISTORY" value="http://localhost&amp;^%$#@admin" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.10.0" last-modified="1520373302000" />
+    </local-interpreter>
   </component>
 </application>
