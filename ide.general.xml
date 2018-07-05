@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -12,5 +11,6 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
   </component>
 </application>
