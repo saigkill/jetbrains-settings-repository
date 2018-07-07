@@ -1,5 +1,5 @@
 <application>
-  <component name="org.codebrewer.intellijplatform.plugin.dilbert.DilbertDailyStripPlugin">
+  <component name="org.codebrewer.idea.dilbert.DilbertDailyStripPlugin">
     <setting name="disclaimerAcknowledged" value="false" />
     <downloads>
       <setting name="fetchStripAutomatically" value="false" />

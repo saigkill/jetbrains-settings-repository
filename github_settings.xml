@@ -1,11 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="92ae821c-6b26-40ac-9763-13adf5d1265b" name="saigkill">
+    <account id="9473d982-468f-4203-894d-7afefcd725e7" name="saigkill">
       <server host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="saigkill" />
-    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="AUTH_TYPE" value="TOKEN" />
   </component>
 </application>
