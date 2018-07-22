@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="addressable (v2.5.2, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/data" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/data" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/data" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/spec" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/addressable-2.5.2/tasks" />
+      </excluded>
+    </library>
     <library name="ast (v2.4.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -83,12 +105,44 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bundler-audit-0.6.0/spec" />
       </excluded>
     </library>
+    <library name="climate_control (v0.2.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/climate_control-0.2.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/climate_control-0.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/climate_control-0.2.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/climate_control-0.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/climate_control-0.2.0/spec" />
+      </excluded>
+    </library>
     <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="cocaine (v0.6.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cocaine-0.6.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cocaine-0.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cocaine-0.6.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cocaine-0.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/cocaine-0.6.0/spec" />
+      </excluded>
     </library>
     <library name="codeclimate-engine-rb (v0.4.1, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
@@ -324,6 +378,28 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-1.7.10/examples" />
       </excluded>
     </library>
+    <library name="highline (v2.0.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/doc" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/site" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/doc" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/site" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/doc" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/site" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/highline-2.0.0/examples" />
+      </excluded>
+    </library>
     <library name="hoe (v3.17.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -422,6 +498,22 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/hoe-rubygems-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="hoe-travis (v1.3.1, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/hoe-travis-1.3.1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/hoe-travis-1.3.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/hoe-travis-1.3.1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/hoe-travis-1.3.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/hoe-travis-1.3.1/test" />
+      </excluded>
+    </library>
     <library name="hoe-version (v1.2.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -506,6 +598,22 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/2.5.0/json/add" />
       </excluded>
     </library>
+    <library name="manpages (v0.6.1, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/manpages-0.6.1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/manpages-0.6.1/rbenv" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/manpages-0.6.1/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/manpages-0.6.1/rbenv" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/manpages-0.6.1/rbenv" />
+      </excluded>
+    </library>
     <library name="mini_portile2 (v2.3.0, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -540,6 +648,17 @@
       <excluded>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/test" />
       </excluded>
+    </library>
+    <library name="multi_json (v1.13.1, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
     </library>
     <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
@@ -735,6 +854,28 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/2.5.0/psych/nodes" />
         <root url="file://C:/Ruby25-x64/lib/ruby/2.5.0/psych/handlers" />
         <root url="file://C:/Ruby25-x64/lib/ruby/2.5.0/psych/visitors" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.0.2, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/bin" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/data" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/bin" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/data" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/bin" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/data" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.2/test" />
       </excluded>
     </library>
     <library name="rainbow (v3.0.0, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -1063,6 +1204,17 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/simplecov-html-0.10.2/public" />
       </excluded>
     </library>
+    <library name="streamio-ffmpeg (v3.0.2, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/streamio-ffmpeg-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/streamio-ffmpeg-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="stringio (v0.0.1, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -1097,6 +1249,22 @@
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/term-ansicolor-1.6.0/bin" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/term-ansicolor-1.6.0/tests" />
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/term-ansicolor-1.6.0/examples" />
+      </excluded>
+    </library>
+    <library name="terrapin (v0.6.0, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/terrapin-0.6.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/terrapin-0.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/terrapin-0.6.0/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/terrapin-0.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/terrapin-0.6.0/spec" />
       </excluded>
     </library>
     <library name="test-unit (v3.2.7, ruby-2.5.1-p57) [gem]" type="rubylib">
@@ -1285,6 +1453,27 @@
       </SOURCES>
       <excluded>
         <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
+      </excluded>
+    </library>
+    <library name="youtube-dl.rb (v0.3.1.2017.06.25@1217ac, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/.git" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/lib" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/.git" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/test" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/.git" />
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/bundler/gems/youtube-dl.rb-1217ace2b38d/test" />
       </excluded>
     </library>
     <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]" type="rubylib">
